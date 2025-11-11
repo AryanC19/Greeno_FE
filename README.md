@@ -3,6 +3,8 @@
 
 Greeno Assist is an AI-driven healthcare app designed to simplify patient care and medication tracking. It helps users manage prescriptions, view personalized care plans, and interact with an intelligent medical assistant built using **LLMs** and **RAG pipelines**.
 
+Backend:
+https://github.com/AryanC19/Greeno_BE
 ---
 
 ## 🚀 Features
