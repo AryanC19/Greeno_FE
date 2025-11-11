@@ -23,7 +23,16 @@ Greeno Assist is an AI-driven healthcare app designed to simplify patient care a
 **Auth & APIs:** JWT, REST APIs  
 **Tools:** Docker, Postman  
 
----
+
+<img width="320" height="700" alt="1" src="https://github.com/user-attachments/assets/8c38618c-c1a3-4ab1-9a58-0fdefd5535c0" />
+<img width="320" height="700" alt="B" src="https://github.com/user-attachments/assets/ea3b6ed6-da76-42c5-9918-23d4da0a1727" />
+<img width="320" height="700" alt="C" src="https://github.com/user-attachments/assets/f489c61b-f378-4846-8a3f-d8076f7d87d6" />
+<img width="320" height="700" alt="D" src="https://github.com/user-attachments/assets/06ad809c-7252-40a1-8f09-5b937c35020c" />
+<img width="320" height="700" alt="e" src="https://github.com/user-attachments/assets/3892b3f3-1ec3-40e8-bb84-96d70e23b568" />
+<img width="320" height="700" alt="f" src="https://github.com/user-attachments/assets/c432677f-132f-487e-b5b3-8b7ad86ff003" />
+<img width="320" height="700" alt="G" src="https://github.com/user-attachments/assets/0995620d-25e9-463d-844a-d20874c59ef8" />
+
+
 
 ## 🧠 How It Works
 1. Upload your **care plan PDF**.  
